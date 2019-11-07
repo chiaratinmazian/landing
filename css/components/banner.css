@@ -1,0 +1,39 @@
+.banner {
+  display: flex;
+  background-size:cover;
+  height: 400px;
+  padding: 200px 0;
+  align-items: center;
+  text-align: left;
+  background-position: center;
+
+}
+
+.banner h1 {
+  color: white;
+  font-size: 40px;
+}
+
+.banner p {
+  color:lightgrey;
+  font-size: 22px;
+  opacity: 0.8;
+  margin-bottom: 50px;
+
+}
+
+.banner a {
+  text-decoration: none;
+  background-color: #35DD88;
+  padding: 15px 25px;
+  border-radius: 60px;
+  color: white;
+}
+
+.info-banner {
+  margin:auto;
+}
+
+.banner * {
+
+}

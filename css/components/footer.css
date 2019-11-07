@@ -1,0 +1,21 @@
+.footer {
+  display:flex;
+  flex-direction: column;
+  background-color: #2B2B2B;
+  text-align: center;
+  padding: 25px;
+}
+
+.footer p {
+  color:grey;
+  opacity: 0.7;
+}
+
+.fab {
+  font-size: 24px;
+  color: #35DD88;
+}
+
+.fas {
+  color: pink;
+}
